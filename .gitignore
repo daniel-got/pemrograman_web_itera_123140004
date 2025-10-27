@@ -1,0 +1,30 @@
+# Folder dependensi (paling penting)
+# Ini berisi ribuan file yang diunduh oleh 'npm install'
+/node_modules
+
+# Folder hasil build
+# Ini adalah file produksi yang dibuat oleh 'npm run build'
+/build
+
+# Laporan testing
+/coverage
+
+# File environment lokal
+# Ini sering berisi kunci API rahasia dan tidak boleh di-push
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# File log
+npm-debug.log*
+yarn-error.log
+yarn-debug.log*
+
+# File sistem operasi (macOS dan Windows)
+.DS_Store
+Thumbs.db
+
+# Folder spesifik editor (opsional, tapi disarankan)
+.vscode
+.idea
