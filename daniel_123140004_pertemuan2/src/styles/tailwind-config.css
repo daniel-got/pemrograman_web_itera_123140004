@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwnd components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-light {
+    background-color: #F6F3ED;
+  }
+
+  .bg-dark {
+    background-color: #313851;
+  }
+
+  .bg-card-light {
+    background-color: #FFFFFF;
+  }
+
+  .bg-card-dark {
+    background-color: #3d4457;
+  }
+
+  .text-primary {
+    color: #313851;
+  }
+
+  .tect-secondary {
+    color: #C2CBD3;
+  }
+
+  .text-dark {
+    color: #313851;
+  }
+
+  .border-secondary {
+    border-color: #C2CBD3;
+  }
+
+  .bg-primary {
+    background-color: #313851;
+  }
+
+  .bg-secondary {
+    background-color: #C2CBD3;
+  }
+
+  .hover\:bg-primary-dark:hover {
+    background-color: #252b3d;
+  }
+
+  .hover\:bg-secondary-dark:hover {
+    background-color: #a8b4bf;
+  }
+}
