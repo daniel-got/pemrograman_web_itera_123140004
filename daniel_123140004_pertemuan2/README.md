@@ -120,15 +120,19 @@ personal-dashboard/
 ## Screenshots
 
 ### Light Mode
+<img width="1293" height="595" alt="image" src="https://github.com/user-attachments/assets/29043a0c-b05a-4c8e-b01d-b91ab29e457a" />
 
 
 ### Dark Mode
+<img width="1304" height="596" alt="image" src="https://github.com/user-attachments/assets/ee3a9869-1547-40eb-83ed-8f76cbdc1e41" />
 
 
 ### Manajemen Tugas
+<img width="1274" height="484" alt="image" src="https://github.com/user-attachments/assets/a73ba8c5-9117-4549-bd81-df238661e98c" />
 
 
 ### Jadwal Kuliah  
+<img width="1242" height="524" alt="image" src="https://github.com/user-attachments/assets/9e41e5bf-7bac-4dc0-8c95-ed31cba9cadf" />
 
 
 ## 🔧 Teknologi yang Digunakan
