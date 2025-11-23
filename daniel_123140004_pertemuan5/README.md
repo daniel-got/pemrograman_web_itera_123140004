@@ -55,5 +55,25 @@ Saat Library memanggil display_items(), program secara otomatis menggunakan meth
 ```
 ```
 ## Cara Menjalankan Program
-python tugas.py
+_python tugas.py
+
+## Screenshot
+<img width="879" height="215" alt="image" src="https://github.com/user-attachments/assets/186cfa72-c200-4491-98c4-31c492097317" />
+
+<img width="797" height="148" alt="image" src="https://github.com/user-attachments/assets/8e538d9c-d6ea-4b87-b8a7-4e5d9f431695" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
