@@ -88,23 +88,32 @@ curl -X POST http://localhost:6543/api/matakuliah \
 -H "Content-Type: application/json" \
 -d '{"kode_mk": "IF202", "nama_mk": "Sistem Operasi", "sks": 3, "semester": 4}'
 ```
+<img width="521" height="157" alt="image" src="https://github.com/user-attachments/assets/91a5dcd4-497c-45c9-bdf1-e9d24a8db5f3" />
+
 2. Read all : 
 ```bash
 curl -X GET http://localhost:6543/api/matakuliah
 ```
+<img width="619" height="373" alt="image" src="https://github.com/user-attachments/assets/ef24deca-6cb3-489c-b9ee-319f36908917" />
+
 3. Read by id : 
 ```bash
 curl -X GET http://localhost:6543/api/matakuliah/1
 ```
+<img width="730" height="56" alt="image" src="https://github.com/user-attachments/assets/94fc8400-2bac-469f-8473-1d7e5601af8e" />
+
 4. Update : 
 ```bash
 curl -X PUT http://localhost:6543/api/matakuliah/1 \
 -H "Content-Type: application/json" \
--d '{"sks": 4, "nama_mk": "Sistem Operasi Lanjut"}'
+-d '{"sks": 6, "nama_mk": "Sistem Operasi"}'
 ```
+<img width="761" height="92" alt="image" src="https://github.com/user-attachments/assets/bc54b8ab-8ba8-4371-a7e1-157221064cda" />
+
 5. Delete : 
 ```bash
 curl -X DELETE http://localhost:6543/api/matakuliah/1
 ```
-```
+<img width="616" height="662" alt="image" src="https://github.com/user-attachments/assets/3eae24e2-33be-461c-9204-c6a74abf089e" />
+
 
