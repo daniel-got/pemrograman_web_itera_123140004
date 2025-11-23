@@ -42,7 +42,7 @@ classDiagram
     Library "1" o-- "*" LibraryItem : Aggregates
 
 ```
-##Class
+## Class
 Abstract Class: LibraryItem bertindak sebagai blueprint dasar menggunakan modul abc. Class ini tidak bisa diinstansiasi sendiri.
 Inheritance: Class Book dan Magazine mewarisi properti dan method dari LibraryItem, namun memiliki atribut unik masing-masing (seperti isbn pada buku dan issue_number pada majalah).
 Access Modifiers:
@@ -54,6 +54,26 @@ Subclass Book dan Magazine melakukan override terhadap method tersebut dengan im
 Saat Library memanggil display_items(), program secara otomatis menggunakan method yang sesuai dengan tipe objeknya.
 ```
 ```
-Cara Menjalankan Program
-python library_system.py
+## Cara Menjalankan Program
+_python tugas.py
+
+## Screenshot
+<img width="879" height="215" alt="image" src="https://github.com/user-attachments/assets/186cfa72-c200-4491-98c4-31c492097317" />
+
+<img width="797" height="148" alt="image" src="https://github.com/user-attachments/assets/8e538d9c-d6ea-4b87-b8a7-4e5d9f431695" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
